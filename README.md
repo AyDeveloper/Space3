@@ -2,7 +2,7 @@
 
 
 No.1 Infrastructure for Developers-Support in under-represented communities. You can always rely on SPACE3 for fast-paced growth.
-Space3 is a project that seeks to grow web3 communities by building workspaces in rural areas to give web3 devs the needed capacity to build for the future of the internet. 
+Space3 is an Nft project that seeks to grow web3 communities by building workspaces in rural areas to give web3 devs the needed capacity to build for the future of the internet. 
 
 Proceeds from minting of NFT's would be used solely for the provision of electricity and constant internet and needed educational materials. 
 
@@ -25,6 +25,8 @@ This project tends to support web3 devs in rural areas having internet and elect
 # Future of Space3
 
 Looking forward to creating a DAO, where funds gathered are been decided upon by holders of the NFTs to decide profitable actions to take so as to increase revenue to achieve its fundamental objectives
+
+From proceeds gained, we look forward to build a full grand event center that can accomodate maximum of 300 developers for web3 events as ETHDenver and all to further foster web3 growth and adoption in Africa.
 
 # Others
 The smart contract was deployed to Polygon and here is the link https://polygonscan.com/address/0x23daA7b145cb7853EB25B00CB0eF2A07bB9E9b22
