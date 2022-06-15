@@ -1,39 +1,34 @@
-# Buidlpay
-
-Each day new protocols and technology springs up in web3 space which maybe a little unknown to newbies or beginners. The use of them for solving practical solutions is super important to drive mass adoption. Technologies ranging from Covalent,  LivePeer, Lens Protocol, Radicle, Superfluid and so on are developed to solve real life problems. Web3 is not only about smart contracts, there are other technologies that newbie developers can be familiar with to build their next unicorn. This innovation is majorly focused on beginners and intermediate developers to get into building real life projects with these technologies, get hands-on experience and get rewarded if the idea is sold or acquired on the platform.
- 
-Just like how hackathons are, you get into building using these technologies solo, and list it on this platform. When project is listed, you are rest assured that your project if reviewed and passes more than 2 votes would be rewarded. This is just an initiative made for Buidlers and to reward them. 
-
-This platform tends to support building decentralized applications on the Klatyn blockchain and also using other techonologies like Covalent e.t.c. It makes use of the trust, and permissionlessness of the blockchain to reward builders and drive mass adoption for the Klatyn blockchain.
+# Space3
 
 
-# Important Note
-a. The smart contract handles the following functionality: Register project, Vote Project, RewardBuilder e.t.c. The sorce code for the smart contract lies in the asset folder of this repo.
+No.1 Infrastructure for Developers-Support in under-represented communities. You can always rely on SPACE3 for fast-paced growth.
+Space3 is a project that seeks to grow web3 communities by building workspaces in rural areas to give web3 devs the needed capacity to build for the future of the internet. 
 
-b. The front end enable users list projects and interact with the already deployed smart contract
+Proceeds from minting of NFT's would be used solely for the provision of electricity and constant internet and needed educational materials. 
+
+This project tends to support web3 devs in rural areas having internet and electricity challange. This project made use of the of the following:
+
+1. ERC721 Standard: For the NFT Contract
+2. Polygon Mainnet: Deployed the NFT Contract here
+3. Moralis: User Authentication, For getting users native balance and majorly for smart contract function call
+4. Covalent: Made use of the ClasA API for getting getExternalNFTMetadata to be displayed on the Frontend.
+5. FileBase & IPFS : For storing the metadata of the NFTs
+
+
 
 # How it works
 
-1. Users are expected to list their project: this field contains the name of the project, link to the project, supposed prized they want to sell for/ get rewarded for, technologies used e.g covalent or others, and description about the project(what it intends to solve). Submitting the Project calls the register function in the contract
+1. Users are expected to mint NFT's as they will to support the growth of web3 ecosystem in Africa. Can only mint max of 10 in a transaction
 
-2. Having listed your project, it expected that you get greater than two votes before you can be rewarded. This is a way to minimally proof the validity of the project by others. Onclick of vote, it calls the vote function in the contract and increment the vote count of the buidler.
-3. After getting greater than 2 votes, a random lover of your project can now reward you by clicking the reward button. This action triggers the RewardBuilder method in the smart contract. 
+2. Having minted, the total money available from minitng is made available on the front end and also the information of users that already minted using Covalent and Moralis
 
-# Future of BuidlPay
+# Future of Space3Three
 
-Just like how Klaytn Foundation’s May Proof-Of-Contribution (POC) program has been announced to bring about mass adoption in the Klatyn Ecosystem, BuidlPay tends to seek partnership that would help beginners or intermediate grow their skills, get rewarded and build to expand the Klatyn Ecosystem.
-
-We tend to ensure that only Buidlers with the Buidl tokens can be eligible for grants from any future partners to scale projects long term in the Klatyn Ecosystem.
-
-
-
-
-
-
+Looking forward to creating a DAO, where Funds gathered are been decided upon by holders of the NFTs to decide profitable projects to venture into so as to get more revenue to fund its fundamental objectives
 
 # Others
-The smart contract was deployed to BaoBab and here is the link  https://baobab.scope.klaytn.com/account/0xb44E8d6C64c51EA8CE76fE3766f3e3C19289256E?tabId=internalTx
+The smart contract was deployed to Polygon and here is the link https://polygonscan.com/address/0x23daA7b145cb7853EB25B00CB0eF2A07bB9E9b22
 
-The Site is live on https://buidlpay.netlify.app/
+The Site is live on https://spacethree.netlify.app/
 
-Here is a link to the slide https://docs.google.com/presentation/d/19DMQna_AUB55_kkEibsGLnSwZd9D0pm0zNxP1gUlxBA/edit?usp=sharing
+Here is a link to the slide https://docs.google.com/presentation/d/1GJNevKLzlqYRTXDH1FD4XUc9R_MVjSEmhYzV3IJ_tDU/edit?usp=sharing
