@@ -22,9 +22,9 @@ This project tends to support web3 devs in rural areas having internet and elect
 
 2. Having minted, the total money available from minitng is made available on the front end and also the information of users that already minted using Covalent and Moralis
 
-# Future of Space3Three
+# Future of Space3
 
-Looking forward to creating a DAO, where Funds gathered are been decided upon by holders of the NFTs to decide profitable projects to venture into so as to get more revenue to fund its fundamental objectives
+Looking forward to creating a DAO, where funds gathered are been decided upon by holders of the NFTs to decide profitable actions to take so as to increase revenue to achieve its fundamental objectives
 
 # Others
 The smart contract was deployed to Polygon and here is the link https://polygonscan.com/address/0x23daA7b145cb7853EB25B00CB0eF2A07bB9E9b22
