@@ -10,8 +10,8 @@ This project tends to support web3 devs in rural areas having internet and elect
 
 1. ERC721 Standard: For the NFT Contract
 2. Polygon Mainnet: Deployed the NFT Contract here
-3. Moralis: User Authentication, For getting users native balance and majorly for smart contract function call
-4. Covalent: Made use of the ClasA API for getting getExternalNFTMetadata to be displayed on the Frontend.
+3. Moralis: User Authentication, For getting users native balance and majorly for smart contract / execution or function call
+4. Covalent: Made use of the ClassA API for getting getExternalNFTMetadata  to be display owners of NFT on the Frontend.
 5. FileBase & IPFS : For storing the metadata of the NFTs
 
 
